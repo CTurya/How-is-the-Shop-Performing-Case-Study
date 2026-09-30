@@ -126,10 +126,5 @@ about operational health, not revenue.
 4. Open `deliverables/shop_dashboard.html` in a browser, or
    `Shop_Performance_Review.pptx` for the slide version.
 
-## Data Note
 
-This is a synthetic dataset built for a data analysis case study (BrightLearn).
-All customers, orders, and figures are fictional.
-
----
 *Case study completed as part of a beginner data analysis exercise.*
